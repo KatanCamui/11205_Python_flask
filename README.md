@@ -6,3 +6,6 @@ https://docs.python.org/zh-tw/3/library/index.html
 
 內建函式
 https://docs.python.org/zh-tw/3/library/functions.html
+
+政府資料開放平臺
+https://data.gov.tw/
