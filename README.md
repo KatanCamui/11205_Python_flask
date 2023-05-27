@@ -9,3 +9,5 @@ https://docs.python.org/zh-tw/3/library/functions.html
 
 政府資料開放平臺
 https://data.gov.tw/
+
+(強制送出)終端:git push -f
