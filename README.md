@@ -14,3 +14,8 @@ https://data.gov.tw/
 
 GitHub Desktop
 https://desktop.github.com/
+
+vscode
+https://code.visualstudio.com/
+
+Streamlit 
