@@ -19,3 +19,6 @@ vscode
 https://code.visualstudio.com/
 
 Streamlit 
+
+cmd中止 ctrl + C
+
