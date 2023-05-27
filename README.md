@@ -11,3 +11,6 @@ https://docs.python.org/zh-tw/3/library/functions.html
 https://data.gov.tw/
 
 (強制送出)終端:git push -f
+
+GitHub Desktop
+https://desktop.github.com/
