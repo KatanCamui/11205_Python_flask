@@ -1,6 +1,5 @@
 # 11205_Python_flask
 112_Python大數據資料探勘實務班
-ghsxzysoaj
 
 Python 標準函式庫 (Standard Library)
 https://docs.python.org/zh-tw/3/library/index.html
