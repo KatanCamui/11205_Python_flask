@@ -11,14 +11,28 @@ https://docs.python.org/zh-tw/3/library/functions.html
 https://data.gov.tw/
 
 (強制送出)終端:git push -f
+(cmd中止): ctrl + C
+
+python 下載3.10.11
+https://www.python.org/downloads/
 
 GitHub Desktop
 https://desktop.github.com/
 
 vscode
 https://code.visualstudio.com/
+一定要勾path
+載在C:/Python310
+開啟github檔案
+打開vscode，左下命令選擇區，打dis，下載configure Display Language選繁中
 
-Streamlit 
+終端機
+pip install requests
+pip install pandas
+pip install streamlit
 
-cmd中止 ctrl + C
+測試Streamlit
+streamlit run Lesson_8.py
+
+
 
