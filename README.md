@@ -23,14 +23,15 @@ https://desktop.github.com/
 3.vscode
 https://code.visualstudio.com/
 一定要勾path
-載在C:/Python310
+安裝在C:/Python310
 
-4.開啟專案(github檔案)
+4.vscode開啟專案(github檔案)
 extenstion
 git不須安裝
 dev container不須安裝
 python需要安裝
-打開vscode，左下命令選擇區，打dis，下載configure Display Language選繁中
+自動存檔:設定->Files: Auto Save改afterDelay
+左下命令選擇區，打dis，下載configure Display Language選繁中
 
 終端機
 pip install requests
@@ -41,6 +42,6 @@ pip install streamlit
 streamlit run Lesson_8.py
 或streamlit hello
 
-
-
+Markdown 語法說明
+https://markdown.tw/
 
