@@ -14,20 +14,22 @@ https://data.gov.tw/
 (強制送出)終端:git push -f
 (cmd中止): ctrl + C
 
-python 下載3.10.11
+1.python 下載3.10.11
 https://www.python.org/downloads/
 
-python 3.10.11
-https://www.python.org/downloads/
-
-GitHub Desktop
+2.GitHub Desktop
 https://desktop.github.com/
 
-vscode
+3.vscode
 https://code.visualstudio.com/
 一定要勾path
 載在C:/Python310
-開啟github檔案
+
+4.開啟專案(github檔案)
+extenstion
+git不須安裝
+dev container不須安裝
+python需要安裝
 打開vscode，左下命令選擇區，打dis，下載configure Display Language選繁中
 
 終端機
@@ -37,10 +39,8 @@ pip install streamlit
 
 測試Streamlit
 streamlit run Lesson_8.py
+或streamlit hello
 
-Streamlit 
-pip install streamlit
-streamlit hello
 
 
 
