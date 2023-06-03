@@ -1,5 +1,6 @@
 # 11205_Python_flask
 112_Python大數據資料探勘實務班
+ghsxzysoaj
 
 Python 標準函式庫 (Standard Library)
 https://docs.python.org/zh-tw/3/library/index.html
@@ -14,6 +15,9 @@ https://data.gov.tw/
 (cmd中止): ctrl + C
 
 python 下載3.10.11
+https://www.python.org/downloads/
+
+python 3.10.11
 https://www.python.org/downloads/
 
 GitHub Desktop
@@ -33,6 +37,10 @@ pip install streamlit
 
 測試Streamlit
 streamlit run Lesson_8.py
+
+Streamlit 
+pip install streamlit
+streamlit hello
 
 
 
