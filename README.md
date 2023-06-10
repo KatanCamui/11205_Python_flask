@@ -49,3 +49,7 @@ https://markdown.tw/
 紀錄套件
 1. pip freeze > requirements.txt
 2.打開設定檔  devcontainer.json
+
+上傳streamlit
+https://streamlit.io/
+
