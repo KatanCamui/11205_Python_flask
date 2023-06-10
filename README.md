@@ -15,6 +15,8 @@ https://data.gov.tw/
 
 1.python 下載3.10.11
 https://www.python.org/downloads/
+一定要勾path
+安裝在C:/Python310
 
 2.GitHub Desktop
 https://desktop.github.com/
