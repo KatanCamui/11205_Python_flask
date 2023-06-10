@@ -22,17 +22,20 @@ areas = dataFrame1['行政區'].unique()
 #group_data = dataFrame.groupby('行政區').sum()
 #areas = group_data.index.to_numpy().tolist()
 
+option = st.selectbox(':star:行政區域:', areas)
+#dataFrame1['行政區'] == option
+#st.write('你選擇:', option)
+
 min,max = st.slider(
     '請選擇可借的(<=數量)',
     0, 100, (0, 100))
 
-mask = (min <=dataFrame1['可借'])  & (dataFrame1['可借'] <= max) 
+mask = (min <=dataFrame1['可借'])  & (dataFrame1['可借'] <= max)  & (dataFrame1['行政區'] == option)
 mask_dataFrame = dataFrame1[mask]
-count = mask_dataFrame["車數"].count()
 
-option = st.selectbox('行政區域:', areas)
-st.write('你選擇:', option)
+st.write(option ,":" , len(mask_dataFrame.index))
 
-st.write("符合條件的站點數:" , count)
+#count = mask_dataFrame["車數"].count()
+#st.write("符合條件的站點數:" , count)
 st.dataframe(mask_dataFrame)
 
