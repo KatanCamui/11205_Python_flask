@@ -46,3 +46,6 @@ streamlit run Lesson_8.py
 Markdown 語法說明
 https://markdown.tw/
 
+紀錄套件
+1. pip freeze > requirements.txt
+2.打開設定檔  devcontainer.json
